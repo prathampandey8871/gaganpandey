@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @prathampandey8871
-- 👀 I’m interested in prigramming
+- 👋 Hi, I’m @gaganpandey
+- 👀 I’m interested in programming
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on projects
 - 📫 You can contact me on 8871860269
